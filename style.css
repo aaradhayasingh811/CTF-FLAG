@@ -152,6 +152,10 @@ nav > #utility {
     grid-gap: 16px;
 }
 
+nav > #utility:hover {
+    cursor: pointer;
+}
+
 .card-large,
 .card-med {
     /*    border: 1px solid orange;*/
